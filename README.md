@@ -11,14 +11,14 @@ https://wiki.gentoo.org/wiki/Overlay
 ## Why
 
 Sometimes I'm looking to do one or more of the following:
-	* Install a program not presently in the Portage tree
-	* Install a different version than what's presently in the official Gentoo
-	or Funtoo portage trees
-	* Enable or experiment with features in the program that the current
-	official build doesn't use
-	* Fix bugs in an ebuild
-	* Alter how an ebuild manages the installation of a program to better suit
-	my needs & wants
+* Install a program not presently in the Portage tree
+* Install a different version than what's presently in the official Gentoo
+or Funtoo portage trees
+* Enable or experiment with features in the program that the current official
+build doesn't use
+* Fix bugs in an ebuild
+* Alter how an ebuild manages the installation of a program to better suit my
+needs & wants
 
 This repo is a place for me to do the above without having to worry about my
 changes getting overwritten when I sync the main offical Porage tree.
